@@ -22,7 +22,7 @@
         <mxCell id="szC7UAWl3pNp8yoyxZKv-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry x="530" y="168" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="szC7UAWl3pNp8yoyxZKv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+        <mxCell id="szC7UAWl3pNp8yoyxZKv-6" value="主控板单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry x="530" y="253" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="szC7UAWl3pNp8yoyxZKv-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
@@ -40,6 +40,15 @@
             <mxPoint x="507" y="-220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="579" y="-282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="szC7UAWl3pNp8yoyxZKv-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="szC7UAWl3pNp8yoyxZKv-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579" y="-189" as="sourcePoint" />
+            <mxPoint x="582" y="-97" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="579" y="-97" />
             </Array>
           </mxGeometry>
         </mxCell>
